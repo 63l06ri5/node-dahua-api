@@ -4,6 +4,7 @@
   "description": "Dahua HTTP API Module",
   "main": "dahua.js",
   "dependencies": {
+    "request": "^2.88.2"
   },
   "devDependencies": {},
   "scripts": {
